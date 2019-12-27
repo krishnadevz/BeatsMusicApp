@@ -1,7 +1,7 @@
 # BeatsMusicApp
 <br>
 
-<b>This is beats music app created in vanila javascript and using css animation and Html div tags for playing music by tapping on it .</b>
+<b>This is beats music app created in vanila javascript and using css animation+flexbox and by using Html  for playing music by tapping on it .</b>
 
 # Project View and Working Below ⬇
 <br>
@@ -16,5 +16,5 @@
 <a href="https://twitter.com/krishna_9918" target_blank="" <b>krishnakakade</b></a>
  <br>
  
- 
+ # For More details You Can Go Through LinebyLine in Code/Script
  # Thank you  
