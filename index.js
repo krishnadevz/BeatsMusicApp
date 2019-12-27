@@ -1,3 +1,7 @@
+/*Author krishna kakade 
+Twitter :-https://twitter.com/krishna_9918
+Mail:-krishnakakade77@gmail.com
+*/
 window.addEventListener('load',()=>{
 const sounds =document.querySelectorAll(".sound");
 const pads =document.querySelectorAll('.pads div');
