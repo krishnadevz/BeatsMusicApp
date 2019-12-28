@@ -1,6 +1,6 @@
 # BeatsMusicApp
-<b>Project Working with Sound Link To Tweet</b>
-<a href="https://twitter.com/krishna_9918/status/1210610410287558656" target_blank=""<b>Working With Beats Sound</b></a>
+<b>Project Working with Sound Link To Tweet</b><br>
+<a href="https://twitter.com/krishna_9918/status/1210610410287558656" target_blank="" >Working With Beats Sound</a>
 <br>
 
 <b>This is beats music app created in vanila javascript and using css animation+flexbox and by using Html  for playing music by tapping on it .</b>
